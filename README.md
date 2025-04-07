@@ -1,4 +1,4 @@
-I am Azhar Chowdhury. I am a prospective Machine Learning/Data Scientist/Python Developer/Learning Engineer. In the past I also worked as a Statistical Programmer.  
+I am Azhar Chowdhury. I am a prospective Machine Learning Engineer/Data Scientist/Python Developer. In the past I also worked as a Statistical Programmer.  
 <!---
 achowdh2/achowdh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
